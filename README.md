@@ -1,6 +1,6 @@
 # ADN
 Ingresar los ADN separado por espacios.
-Hcaer click en el botón.
+Hacer click en el botón.
 Al ingresar los ADN en el formulario tener en cuenta que la cantidad de filas y columnas (NXN) = a la cantidad de caracteres del adn:siguiendo el ejemplo del enunciado.
 Ej: si ingreso un ADN de 5 caracteres (ATCGA) => ingresar 5 ADN total. ADN: ATCGA ATCGA ATCGA ATCGA ATCGA (con espacios entre ellos).
 Luego se imprime TRUE O FALSE según resultado.
