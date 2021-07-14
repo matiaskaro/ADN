@@ -16,6 +16,6 @@ contraseña: 123456Adn
 **** API****
 Para consumir la api correr el archivo consumoapi.php. 
 El servicio corre en un hosting mio (intenté usar los cloud sugeridos pero me pedían tarjeta de crédito y por seguridad prefrí no ingresarla).
-El link a donde hace la petición es: http://multiservicepc.com.ar/Force-User/proceso.php (recomiendo que lo consuman desde consumoapi.php porque sivan directo no traerá resultado esperado). El código de la api está escrito tmb en el archivo proceso.php, igualmente si en algún momento necesitan los datos del hosting lo paso.
+El link a donde hace la petición es: http://multiservicepc.com.ar/Force-User/proceso.php (recomiendo que lo consuman desde consumoapi.php porque si van directo no traerá resultado esperado). El código de la api está escrito tmb en el archivo proceso.php, igualmente si en algún momento necesitan los datos del hosting lo paso.
 
 Si hay mas de 1 ADN compatible devuelve code 200 caso contrario 403. Se observa por en pantalla y (inspeccionar/red)
